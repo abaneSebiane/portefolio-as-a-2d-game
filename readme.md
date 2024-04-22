@@ -2,7 +2,7 @@
 
 Ce projet est un jeu 2D interactif qui présente mon portefolio de développement. Il offre une expérience ludique et engageante pour les visiteurs, tout en leur permettant de découvrir mes compétences et réalisations.
 
-Live Demo : [portefolio as a 2dGame](https://portefolio-as-a-2d-game.vercel.app/)
+[Click here to see the live demo of the portfolio as a 2D game](https://portefolio-as-a-2d-game.vercel.app/){:target="_blank"}
 
 ## Fonctionnalités
 
